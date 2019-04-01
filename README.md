@@ -1,24 +1,6 @@
-# README
+# PokeMongo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API que faz busca no [Site] (http://dentrodapokebola.com/jogos/pokemon-go/lista-de-pokemon/), utilizando raspagem de dados, e realiza um cache através de mongoDB.
 
-Things you may want to cover:
+Foi construida, durante o minicurso ministrado por mim na Semana Acadêmica 2018, do Instituto Federal Sudeste de Minas Gerais - Campus Barbacena.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
